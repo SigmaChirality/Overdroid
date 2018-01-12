@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OverDroid.iml" filepath="$PROJECT_DIR$/OverDroid.iml" />
+      <module fileurl="file://D:\Repositories\Overdroid\OverDroid.iml" filepath="D:\Repositories\Overdroid\OverDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overdroid.iml" filepath="$PROJECT_DIR$/Overdroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Repositories\Overdroid\app\app.iml" filepath="D:\Repositories\Overdroid\app\app.iml" />
     </modules>
   </component>
 </project>
